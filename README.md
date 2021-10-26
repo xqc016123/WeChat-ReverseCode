@@ -6,3 +6,5 @@
 如果项目涉及权益问题，请即使联系作者删除！
 
 逆向的工具：CrackerXI+、Clutch/dumpdecrypted、Cydia、class-dump
+
+微信逆向包：https://pan.baidu.com/s/1SQGhcU0TvMmfeqQ57FBiBA，提取码: egi7
